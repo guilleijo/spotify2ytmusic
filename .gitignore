@@ -1,0 +1,10 @@
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+.env
+.vscode
+.cache
+headers_auth.json
