@@ -13,7 +13,7 @@ Migrate your playlists from your spotify account to your youtube music account
 - Create `.env` file following `.env.sample` structure and add those values
 
 ## Youtube music auth
-- Follow [Copy authentication headers](https://ytmusicapi.readthedocs.io/en/latest/setup.html#copy-authentication-headers) from `ytmusicapi` docs.
+- Follow [Copy authentication headers](https://ytmusicapi.readthedocs.io/en/latest/setup/browser.html#copy-authentication-headers) from `ytmusicapi` docs.
 - Create a `headers_auth.json` following `headers_auth.sample.json` structure
 - Replace `cookie` and other necessary values from the data in your browser
 
